@@ -1,5 +1,5 @@
 # 💫 About Me:
-# 👋 Hi, I am Yagami Light!<br><br>💻 I am currently working on **REACT.JS**<br><br>🎓 A passionate learner, coder, and web developer  <br>🌐 Building creative and responsive web applications  <br>⚡ Always exploring new technologies and better ways to write clean code  <br>🧑‍💼 Pronouns : **he/him**<br><br>
+# 👋 Hi, I am Yagami Light!<br><br>💻 I am currently working on **NODE.JS**<br><br>🎓 A passionate learner, coder, and web developer  <br>🌐 Building creative and responsive web applications  <br>⚡ Always exploring new technologies and better ways to write clean code  <br>🧑‍💼 Pronouns : **he/him**<br><br>
 
 
 # 💻 Tech Stack:
