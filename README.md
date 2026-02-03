@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h3 align="center">👋 Hi, I am Yagami Light!<br><br>💻 I am currently working on EXPRESS.JS<br><br>🎓 A passionate learner, coder, and web developer<br>🌐 Building creative and responsive web applications<br>⚡ Always exploring new technologies and better ways to write clean code<br>🧑‍💼 Pronouns : he/him</h3>
+<h3 align="center">👋 Hi, I am Harshith Pasupuleti!<br><br>💻 I am currently working on EXPRESS.JS<br><br>🎓 A passionate learner, coder, and web developer<br>🌐 Building creative and responsive web applications<br>⚡ Always exploring new technologies and better ways to write clean code<br>🧑‍💼 Pronouns : he/him</h3>
 
 ###
 
