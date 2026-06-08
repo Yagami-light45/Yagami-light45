@@ -44,28 +44,25 @@ I'm a passionate developer and an undergraduate at **IIT Indore** (Class of 2028
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  
 
 ---
-
 ## 📊 GitHub Analytics
 
 *A snapshot of my open-source activity and consistent coding habits.*
 
 <div align="center">
   
-  <!-- Contribution Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yagami-light45&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
   
   <br />
+  <br />
   
-  <!-- GitHub Stats & Top Languages Cards -->
   <a href="https://github.com/Yagami-light45">
-    <img src="https://github-readme-stats.vercel.app/api?username=Yagami-light45&show_icons=true&bg_color=0d1117&text_color=c9d1d9&icon_color=58a6ff&title_color=58a6ff&hide_border=true" height="195" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Yagami-light45&show_icons=true&bg_color=0d1117&text_color=c9d1d9&icon_color=58a6ff&title_color=58a6ff&hide_border=true" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/Yagami-light45">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yagami-light45&layout=compact&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff&hide_border=true" height="195" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yagami-light45&layout=compact&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff&hide_border=true" alt="Top Languages" />
   </a>
   
 </div>
-
 ---
 
 ## 📫 Let’s Connect
